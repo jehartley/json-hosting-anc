@@ -1,8 +1,9 @@
 [
    {
     "title": "Arkansas Steelmaking Bootcamp!",
-    "description": "Testing",
-    "image": "https://i.imgur.com/e31Inka.jpg"
+    "description": "Sign up today!",
+    "image": "https://i.imgur.com/e31Inka.jpg", 
+    "linkURL": "https://www.anc.edu/thesolutionsgroup/steelmakingbootcamp"
   },   
   {
     "title": "ANC’s Valentine’s Day Celebration!",
